@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Tejas Dadhe
 
-### Senior Software Engineer | MERN Stack Developer | Cloud & DevOps Enthusiast
+### Technical Lead | MERN Stack Engineer | Cloud & DevOps Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AWS+%7C+Docker+%7C+CI%2FCD;Always+Learning+Something+New" alt="Typing SVG" />
 
