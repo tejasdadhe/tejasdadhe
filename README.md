@@ -6,6 +6,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AWS+%7C+Docker+%7C+CI%2FCD;Always+Learning+Something+New" alt="Typing SVG" />
 
+
+<div align="center">
+  <img
+    src="./assets/tejas-github-pixel-perfect.gif"
+    alt="Contribution Ticker"
+    width="100%"
+  />
+</div>
 </div>
 
 ---
