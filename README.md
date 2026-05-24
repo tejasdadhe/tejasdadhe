@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="./assets/tejas-github-pixel-perfect.gif"
+    src="./tejas-github-pixel-perfect.gif"
     alt="Contribution Ticker"
     width="100%"
   />
